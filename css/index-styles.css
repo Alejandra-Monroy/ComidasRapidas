@@ -1,0 +1,41 @@
+.Imagen-logo{
+    width: 10px;
+    right: 15px;
+    margin-top: 15%;
+    border-radius: 10%;
+}
+
+
+.titulo-menu{
+font-size: 10px;
+line-height: 12;
+text-align: center;
+font-weight: bold;
+text-shadow: 0px  12px  12px #111;
+}
+
+.titulo-menu:hover{
+    color: rgb(255, 0, 230);
+}
+.menu-boton {
+    margin-top: 20px;
+}
+
+.menu-boton button{
+    margin-top: 80px;
+}
+
+.iconos{
+    margin-top: auto;
+}
+
+.contenedor-menu{
+    border: 12px solid #333;
+    width: 90%;
+    box-shadow: -12px 12px 12px #333;
+}
+
+.imagen-logo-menu{
+    width: 30px; 
+    border-radius: 10%;
+}
